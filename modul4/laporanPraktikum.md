@@ -139,7 +139,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1]((faarrreeeelll/Farel-Juliyandra-Restu-Hermawan-109082530038-Modul-4/blob/main/modul4/output/output-soal3.png)
+![Screenshot Output Unguided 1_1](faarrreeeelll/Farel-Juliyandra-Restu-Hermawan-109082530038-Modul-4/blob/main/modul4/output/output-soal3.png)
 [Program ini mencetak deret Collatz dari sebuah bilangan input n hingga mencapai 1. Prosedur collatz akan melakukan perulangan selama n belum sama dengan 1, setiap langkah mencetak nilai n, lalu jika n genap dibagi 2, sedangkan jika ganjil dihitung dengan rumus 3n + 1. Proses ini terus berulang sampai akhirnya mencapai 1, lalu angka 1 dicetak sebagai akhir deret.]
 
 
